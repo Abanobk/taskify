@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/infinitietechnologies/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/infinitietechnologies/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/infinitietechnologies/Downloads/taskify-flutter-main/android/app/.cxx/Debug/4f1s311r/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/infinitietechnologies/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/infinitietechnologies/Downloads/taskify-flutter-main/android/app/.cxx/Debug/4f1s311r/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

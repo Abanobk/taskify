@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/infinitietechnologies/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/infinitietechnologies/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/infinitietechnologies/Desktop/taskify- v1.3.0 localization 2/android/app/.cxx/Debug/3t103040/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/infinitietechnologies/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/infinitietechnologies/Desktop/taskify- v1.3.0 localization 2/android/app/.cxx/Debug/3t103040/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/infinitietechnologies/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/infinitietechnologies/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}
